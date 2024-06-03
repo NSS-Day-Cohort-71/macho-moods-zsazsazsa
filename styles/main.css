@@ -1,0 +1,60 @@
+body {
+    font-family: "Metal Mania", system-ui;
+    color: rgba(96, 29, 144, 0.8);
+    background: radial-gradient(circle, rgba(252,51,51,1) 0%, rgba(235,183,73,1) 16%, rgba(242,241,21,1) 27%, rgba(53,233,81,1) 38%, rgba(78,120,221,1) 54%, rgba(153,125,220,1) 70%, rgba(233,148,226,1) 100%);
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 200px;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+img {
+    width: 250px;
+}
+
+.mood {
+    -webkit-box-shadow:inset 1px 1px 10px 10px #FFBF29;
+    box-shadow:inset 1px 1px 10px 10px #FFBF29;
+    margin: 20px;
+    width: 25%;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(237, 190, 231, 0.637);
+    padding: 10px;
+    transition: transform .2s;
+}
+
+.mood:hover {
+    -webkit-box-shadow: 1px 1px 10px 10px #FF3F0F;
+    box-shadow: 1px 1px 10px 10px #FF3F0F;
+    transform: scale(1.2);
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.advice {
+    text-align: left;
+}
+
+.quote {
+    text-align: right;
+}

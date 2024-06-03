@@ -23,3 +23,5 @@ He has some very specific design requirements in mind, which surprised you becau
 > 
 
 Before you even think about coding, discuss and plan this project with your team. The first step of planning is to build a wireframe, this way you all have a clear goal in mind of what you’re building. Don’t worry about what colors or fonts you will use in the wireframe. Just create a general mockup of what Randy has described.
+
+wireframe: https://miro.com/welcomeonboard/NDdIZ0RNWVgxeGxmSld2NGdqZ1N4c2lkTk1oa2JmWkNRODhhZTkzckJVMFFoSERKY2F3V1ZsTEI1a0xqem96YXwzNDU4NzY0NTkwOTEwMzEzNDczfDI=?share_link_id=268942029643
